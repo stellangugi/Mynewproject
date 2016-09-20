@@ -19,7 +19,7 @@ This is how a link should look like [link](https://github.com/stellangugi/Mynewp
 
 #My choice#
 
-![alt fun Image](http://1.bp.blogspot.com/-tdCmGV7MjWU/UWeeJGkFtKI/AAAAAAAAAbI/5Fr9TrYC5lo/s1600/Asian+Semi-longhair+cat+breed_002.jpg "party!")
+![alt fun Image](http://1.bp.blogspot.com/-tdCmGV7MjWU/UWeeJGkFtKI/AAAAAAAAAbI/5Fr9TrYC5lo/s1600/Asian+Semi-longhair+cat+breed_002.jpg "cat!")
 
 So now all I have to do is buy him :smile:
 
